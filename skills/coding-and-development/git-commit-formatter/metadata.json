@@ -1,0 +1,12 @@
+{
+  "name": "git-commit-formatter",
+  "description": "Generates structured conventional commit messages by analysing staged diffs.",
+  "category": "coding-and-development",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "greenskies196-png",
+  "version": "1.0.0",
+  "verified": true,
+  "tags": ["git", "commits", "conventional-commits", "version-control", "workflow"],
+  "dependencies": [],
+  "tested_on": ["claude-code", "openclaw"]
+}
