@@ -1,0 +1,12 @@
+{
+  "name": "rest-api-integrator",
+  "description": "Integrates REST APIs with pagination, rate limit backoff, structured error handling, and secure credential management.",
+  "category": "api-integration",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "greenskies196-png",
+  "version": "1.0.0",
+  "verified": true,
+  "tags": ["rest-api", "http", "pagination", "rate-limiting", "error-handling", "integration"],
+  "dependencies": ["requests"],
+  "tested_on": ["claude-code", "openclaw"]
+}
