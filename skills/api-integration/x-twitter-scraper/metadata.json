@@ -1,0 +1,12 @@
+{
+  "name": "x-twitter-scraper",
+  "description": "Integrates Xquik for X data access, monitoring, webhooks, MCP setup, SDK setup, and confirmation-gated publishing workflows.",
+  "category": "api-integration",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "Xquik",
+  "version": "1.0.0",
+  "verified": false,
+  "tags": ["x", "twitter", "api", "mcp", "webhooks", "social-data"],
+  "dependencies": [],
+  "tested_on": ["codex"]
+}
