@@ -38,9 +38,23 @@ Installing a skill is a two-step process that takes about sixty seconds.
 
 **Step 1** — Find the skill you want by browsing the categories below or searching the repo. Click into the skill folder and open the `SKILL.md` file.
 
-**Step 2** — Copy the contents of the `SKILL.md` file into your agent's skills directory. For Claude Code, this means placing the file inside your project's `.claude/skills/` folder. For Cursor, place it inside `.cursor/skills/`. For OpenClaw, follow the skills installation path in their documentation.
+**Step 2** - Copy the complete skill folder, not only `SKILL.md`, into your
+agent's skill root. Keeping the folder intact preserves its README, metadata,
+references, scripts, and assets.
 
-That is it. Your agent will automatically pick up the skill on its next run and use it whenever the relevant task comes up. You do not need to prompt the agent to use the skill — the skill teaches the agent to recognise when it applies and use it automatically.
+```bash
+# Claude Code project scope
+cp -R skills/<category>/<skill-name> .claude/skills/<skill-name>
+
+# Cursor project scope
+cp -R skills/<category>/<skill-name> .cursor/skills/<skill-name>
+
+# OpenClaw workspace scope
+cp -R skills/<category>/<skill-name> skills/<skill-name>
+```
+
+That is it. Restart or reload the agent after installing the folder. The agent
+will then use the skill when its activation description matches the task.
 
 ---
 

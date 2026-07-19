@@ -59,3 +59,4 @@ This is SkillHub's registry metadata. It is not read by agents — it is read by
   "dependencies": [],
   "tested_on": ["claude-code", "openclaw"]
 }
+```
