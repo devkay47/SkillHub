@@ -1,0 +1,1 @@
+{"author":"WebSmartTools","category":"coding-and-development","compatible_with":["claude-code","cursor","codex"],"description":"A Claude Code skill that generates, vectorizes, and packages cut-ready SVG files for Cricut, Silhouette, and Etsy.","name":"svg-bundle-pipeline","tags":["svg","cricut","silhouette","claude-code"],"verified":false,"version":"1.0.0"}
