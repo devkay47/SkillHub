@@ -1,0 +1,1 @@
+{"author":"WebSmartTools","category":"coding-and-development","compatible_with":["claude-code","cursor","codex"],"description":"A Claude Code skill that builds and edits Elementor pages without breaking imports.","name":"elementor-builder","tags":["elementor","wordpress","claude-code"],"verified":false,"version":"1.0.2"}
