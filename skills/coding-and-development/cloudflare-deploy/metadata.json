@@ -1,0 +1,1 @@
+{"name":"cloudflare-deploy","description":"A Claude Code skill that checks Cloudflare Pages and Worker deploys before they go live","author":"WebSmartTools","category":"coding-and-development","compatible_with":["claude-code","cursor","codex"],"tags":["cloudflare","pages","workers","deploy","claude-code"],"version":"1.0.1","verified":false}
