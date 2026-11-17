@@ -1,0 +1,1 @@
+{"name":"email-deliverability","description":"A Claude Code skill that checks email deliverability with live DNS lookups for SPF, DKIM and DMARC","author":"WebSmartTools","category":"coding-and-development","compatible_with":["claude-code","cursor","codex"],"tags":["email","deliverability","spf","dkim","dmarc","claude-code"],"version":"1.0.1","verified":false}
