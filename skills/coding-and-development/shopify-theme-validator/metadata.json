@@ -1,0 +1,1 @@
+{"name":"shopify-theme-validator","description":"A Claude Code skill that validates Shopify themes before they break on save","author":"WebSmartTools","category":"coding-and-development","compatible_with":["claude-code","cursor","codex"],"tags":["shopify","theme","liquid","claude-code"],"version":"1.0.1","verified":false}
