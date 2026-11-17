@@ -1,0 +1,1 @@
+{"name":"wordpress-rescue","description":"A Claude Code skill that diagnoses WordPress errors from the debug log and rolls back safely","author":"WebSmartTools","category":"coding-and-development","compatible_with":["claude-code","cursor","codex"],"tags":["wordpress","debug-log","php","claude-code"],"version":"1.0.1","verified":false}
